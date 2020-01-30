@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebookFeed</string>
+    <string name="post_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eros mi, pharetra a nisi quis, auctor pretium mauris. In non justo iaculis, tincidunt ex non, aliquet odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer elit nisl, accumsan eu imperdiet aliquet, varius nec lectus. Vivamus aliquam commodo condimentum. Nam venenatis sed velit vitae mollis. Duis ac lorem suscipit, pulvinar nunc vel, mattis diam. Maecenas posuere, dui vitae bibendum sollicitudin, dui metus vestibulum est, sit amet egestas urna orci sit amet lectus. Maecenas fringilla risus in tincidunt fermentum. Praesent luctus vestibulum augue eget finibus. Donec facilisis mauris vel eros luctus, ut pellentesque lectus lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut et pulvinar libero, in lobortis mi.</string>
+    <string name="text_sub_title">BLOG.GOOGLE.com BLOG.GOOGLE.com BLOG.GOOGLE.com BLOG.GOOGLE.com BLOG.GOOGLE.com BLOG.GOOGLE.com</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+</resources>
